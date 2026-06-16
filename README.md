@@ -2,4 +2,4 @@
 this is my first repository
 <br>
 author prashant karki
-and lets beging new journey
+<p>lets beging new project of html basics</p>
